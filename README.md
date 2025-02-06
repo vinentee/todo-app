@@ -1,5 +1,5 @@
 # APP - TODO
-App desenvolvido voltado para quem deseja ser mais organizados com as suas tarefas do dia a dia
+App desenvolvido voltado para quem deseja ser mais organizados com as suas tarefas do dia-a-dia
 
 ## Funcionalidades:
 - Adicionar e excluir tarefas
